@@ -1,4 +1,4 @@
-const CACHE_NAME = 'admin-saksi-v1';
+const CACHE_NAME = 'admin-saksi-v2';
 const urlsToCache = [
   './',
   './index.html',
