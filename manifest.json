@@ -2,7 +2,7 @@
   "name": "SAKSI ADMIN KPU SARMI",
   "short_name": "Admin SAKSI",
   "description": "Panel Administrator Aplikasi SAKSI KPU Kabupaten Sarmi",
-  "start_url": "./index.html",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#d32f2f",
